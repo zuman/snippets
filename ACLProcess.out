@@ -1,0 +1,52 @@
+"C:\Program Files\Java\jdk-11.0.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2018.3.3\lib\idea_rt.jar=60244:C:\Program Files\JetBrains\IntelliJ IDEA 2018.3.3\bin" -Dfile.encoding=UTF-8 -classpath "D:\VM_files\ESS for ACL generation\Multithread POC\out\production\Multithread POC" ACLProcess
+Inside loop for thread #0
+Thread #0 starting
+Inside loop for thread #1
+Thread #1 starting
+Inside loop for thread #2
+Thread #2 starting
+Inside loop for thread #3
+Thread #3 starting
+This is thread 0. Index #0
+This is thread 2. Index #0
+This is thread 1. Index #0
+This is thread 3. Index #0
+This is thread 0. Index #1
+This is thread 2. Index #1
+This is thread 1. Index #1
+This is thread 3. Index #1
+This is thread 0. Index #2
+This is thread 2. Index #2
+This is thread 1. Index #2
+This is thread 3. Index #2
+This is thread 0. Index #3
+This is thread 3. Index #3
+This is thread 1. Index #3
+This is thread 2. Index #3
+This is thread 0. Index #4
+This is thread 3. Index #4
+This is thread 2. Index #4
+This is thread 1. Index #4
+This is thread 0. Index #5
+This is thread 3. Index #5
+This is thread 1. Index #5
+This is thread 2. Index #5
+This is thread 0. Index #6
+This is thread 3. Index #6
+This is thread 2. Index #6
+This is thread 1. Index #6
+This is thread 0. Index #7
+This is thread 3. Index #7
+This is thread 2. Index #7
+This is thread 1. Index #7
+This is thread 0. Index #8
+This is thread 3. Index #8
+This is thread 1. Index #8
+This is thread 2. Index #8
+This is thread 0. Index #9
+This is thread 3. Index #9
+This is thread 2. Index #9
+This is thread 1. Index #9
+Exiting execute() !
+
+Process finished with exit code 0
